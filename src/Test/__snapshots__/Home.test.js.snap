@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="home"
+>
+  <h1>
+    Welcome to our page
+  </h1>
+  <p>
+    Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+  </p>
+  <ul>
+    <li>
+      Make simple calculations.
+    </li>
+    <li>
+      Read a random math-related quote.
+    </li>
+  </ul>
+  <p>
+    Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, computers, software, architecture (ancient and modern), art, money, engineering and even sports.
+  </p>
+</div>
+`;
